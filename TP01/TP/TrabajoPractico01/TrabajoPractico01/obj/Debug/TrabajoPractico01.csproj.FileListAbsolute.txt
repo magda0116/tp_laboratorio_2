@@ -1,0 +1,9 @@
+C:\Users\tonga\Desktop\TP\TrabajoPractico01\TrabajoPractico01\bin\Debug\TrabajoPractico01.exe.config
+C:\Users\tonga\Desktop\TP\TrabajoPractico01\TrabajoPractico01\bin\Debug\TrabajoPractico01.exe
+C:\Users\tonga\Desktop\TP\TrabajoPractico01\TrabajoPractico01\bin\Debug\TrabajoPractico01.pdb
+C:\Users\tonga\Desktop\TP\TrabajoPractico01\TrabajoPractico01\obj\Debug\TrabajoPractico01.csprojResolveAssemblyReference.cache
+C:\Users\tonga\Desktop\TP\TrabajoPractico01\TrabajoPractico01\obj\Debug\TrabajoPractico01.Form1.resources
+C:\Users\tonga\Desktop\TP\TrabajoPractico01\TrabajoPractico01\obj\Debug\TrabajoPractico01.Properties.Resources.resources
+C:\Users\tonga\Desktop\TP\TrabajoPractico01\TrabajoPractico01\obj\Debug\TrabajoPractico01.csproj.GenerateResource.Cache
+C:\Users\tonga\Desktop\TP\TrabajoPractico01\TrabajoPractico01\obj\Debug\TrabajoPractico01.exe
+C:\Users\tonga\Desktop\TP\TrabajoPractico01\TrabajoPractico01\obj\Debug\TrabajoPractico01.pdb
