@@ -1,0 +1,38 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\bin\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\obj\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12\obj\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Clases\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+D:\Federico\VB .Net\Visual C#\utn\Clases\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+E:\tp2 101016\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+E:\tp2 101016\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+E:\tp2 101016\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+E:\tp2 101016\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+E:\tp2 101016\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+E:\tp2 101016\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+E:\tp2 101016\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+E:\tp2 101016\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+E:\TP2\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+E:\TP2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+E:\TP2\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+C:\Users\tonga\Documents\GitHub\tp_laboratorio_2\TP02\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe.config
+C:\Users\tonga\Documents\GitHub\tp_laboratorio_2\TP02\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.exe
+C:\Users\tonga\Documents\GitHub\tp_laboratorio_2\TP02\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12.pdb
+C:\Users\tonga\Documents\GitHub\tp_laboratorio_2\TP02\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.exe
+C:\Users\tonga\Documents\GitHub\tp_laboratorio_2\TP02\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12.pdb
+C:\Users\tonga\Documents\GitHub\tp_laboratorio_2\TP02\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.dll
+C:\Users\tonga\Documents\GitHub\tp_laboratorio_2\TP02\Alumno_Clase_12\Clase_12\bin\Debug\Clase_12_Library.pdb
+C:\Users\tonga\Documents\GitHub\tp_laboratorio_2\TP02\Alumno_Clase_12\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
